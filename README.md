@@ -3,3 +3,4 @@
 * __SelectionSort__
 * __insertionSort__
 * __quickSort__
+* __heapSort__
