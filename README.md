@@ -4,3 +4,4 @@
 * __insertionSort__
 * __quickSort__
 * __heapSort__
+* __oddEvenSort__
