@@ -5,3 +5,4 @@
 * __quickSort__
 * __heapSort__
 * __oddEvenSort__
+* __bubbleSort__
