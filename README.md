@@ -6,3 +6,4 @@
 * __heapSort__
 * __oddEvenSort__
 * __bubbleSort__
+* __shellSort__
